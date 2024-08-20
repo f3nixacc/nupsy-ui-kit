@@ -6,4 +6,4 @@ a:focus-visible {
   @apply outline-primary;
 }
 
-::selection { @apply bg-primary/40; }
+/* ::selection { @apply bg-primary/40; } */
